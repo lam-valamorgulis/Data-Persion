@@ -1,7 +1,18 @@
-Code for MERN tutorial.
+Git upload using commanline
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+Step 0:
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+- Creat repository in git web site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Step 1:
+
+- Create file : .gitignore
+
+Step 2:
+-Using command line :
+
+1. git init
+2. git add .
+3. git commit
+4. git remote add origin [copied web address]
+5. git push -u origin master
